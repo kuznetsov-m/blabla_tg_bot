@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pyTelegramBotAPI = "==3.7.9"
+python-dotenv = "==0.17.1"
+requests = "*"
 
 [dev-packages]
 
